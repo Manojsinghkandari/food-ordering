@@ -1,0 +1,80 @@
+.Sign-up {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.Details {
+  /* width: 100vw; */
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  padding: 5rem;
+}
+
+.Details h1 {
+  /* text-align: left; */
+  margin-bottom: 1rem;
+  /* display: flex; */
+  /* float: left; */
+}
+.div {
+  width: 100%;
+}
+
+.div input {
+  width: 100%;
+  padding: 0.8rem 0.5rem;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+  /* border: none; */
+  border: 1px solid black;
+}
+
+.Details div label {
+  font-size: 1.3rem;
+}
+
+.Details button {
+  width: 107%;
+  padding: 0.5rem 5rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+  border: none;
+  background-color: gold;
+}
+.span {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+}
+
+.last {
+  text-align: center;
+}
+.Details > div span {
+  color: gray;
+}
+
+.enter {
+  margin-top: 1rem;
+}
+
+.character {
+  font-size: 0.8rem;
+}
+.account {
+  display: flex;
+  gap: 1rem;
+  /* flex-direction: row; */
+}
+
+.account .span {
+  color: black;
+}

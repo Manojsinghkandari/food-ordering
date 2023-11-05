@@ -1,0 +1,65 @@
+.containeerr {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+}
+
+.left {
+  margin-left: 5rem;
+}
+.Product {
+  color: brown;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 1.5rem;
+  text-decoration: underline;
+}
+
+.table {
+  width: 70%;
+}
+
+th td {
+  width: 100%;
+}
+
+td {
+  text-align: center;
+}
+
+.button:first-child {
+  background-color: teal;
+  margin-right: 10px;
+  padding: 4px 10px;
+  border-radius: 0.3rem;
+}
+
+.button:last-child {
+  background-color: crimson;
+  padding: 4px 10px;
+  border-radius: 0.3rem;
+}
+
+.buttonn {
+  background-color: gold;
+  padding: 4px 10px;
+  border-radius: 0.3rem;
+}
+
+.disc {
+  width: 80%;
+  height: 100%;
+  margin-bottom: 0.6rem;
+}
+
+.textt {
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.area {
+  width: 100%;
+  border-radius: 0.3rem;
+  padding: 0.3rem 0;
+}
