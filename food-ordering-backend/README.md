@@ -36,7 +36,10 @@ The API will be accessible at http://localhost:3001. You can test the API using 
 
 1. Clone the repository to your local machine:
 
-   ```bash git clone 
+   ```bash git clone https://github.com/Manojsinghkandari/food-ordering/tree/main/food-ordering
+
+
+
 
 
 
