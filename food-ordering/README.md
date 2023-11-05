@@ -48,6 +48,8 @@ npm install
 ## Usage
  To run the project in development mode, use the following command:
 
+ The API will be accessible at http://http://localhost:5173.
+
 npm run dev
 
 1. Clone the repository to your local machine:
