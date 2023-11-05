@@ -53,7 +53,7 @@ npm run dev
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/your-username/your-project.git](https://github.com/Manojsinghkandari/food-ordering/tree/main)https://github.com/Manojsinghkandari/food-ordering/tree/main
+   git clone https://github.com/Manojsinghkandari/food-ordering/tree/main/food-ordering
 
 
 
